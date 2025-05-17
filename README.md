@@ -63,3 +63,6 @@ Tabel-tabel yang digunakan:
    - `id` (INT, Primary Key, Auto Increment)
    - `item_id` (INT, Foreign Key ke `items`)
    - `quantity` (INT)
+
+## Dokumentasi
+![alt text](<Shopping List Management and 6 more pages - Profile 1 - Microsoft_ Edge 2025-05-18 01-48-23.gif>)
